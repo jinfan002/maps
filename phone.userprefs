@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{80452CB5-1A7F-42EB-9B55-F64EDA7608BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="phone/phonePage.xaml">
+    <Files>
+      <File FileName="phone/phonePage.xaml" Line="28" Column="12" />
+      <File FileName="phone/phonePage.xaml.cs" Line="4" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="phone/App.xaml" Line="7" Column="1" />
+      <File FileName="phone/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Git/LuxorUniversal/Luxor.Droid/Gestures/TouchEffect.cs" line="210" offsetX="658" offsetY="3172" expression="pointerLocation.Y" liveUpdate="True" />
+    <Watch file="../../Git/LuxorUniversal/Luxor.Droid/Gestures/TouchEffect.cs" line="209" offsetX="658" offsetY="3119" expression="pointerLocation.X" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.phone.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8C0BF5C7-1CED-4FFB-9EAF-CEB93C578023">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.phone.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
